@@ -1,0 +1,6 @@
+.text-my-own-color {
+  color: white !important; 
+}
+.text-my-own-color:hover, .text-my-own-color:active {
+  color: white !important; 
+}
